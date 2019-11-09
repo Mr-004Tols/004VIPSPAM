@@ -144,7 +144,7 @@ echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
 
 
 sleep 1
-echo "\033[35;1mPemograman:""\033[36;1m Bash"
+echo "\033[35;1mPemograman:RasyidPrasetyo Bash"
 
 echo "\033[33;1mKarya: Mr.004"
 sleep 1

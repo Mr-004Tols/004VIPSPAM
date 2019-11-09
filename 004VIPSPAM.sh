@@ -1,9 +1,9 @@
 #!/system/xbin/bash
 clear
+python2 meizu.py
 git clone https://github.com/amsitlab/smsid-java.git
 cd ./smsid-java
 chmod +x ./install
-python2 meizu.py
 apt install ./smsid_1.1_all.deb
 clear
 
